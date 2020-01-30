@@ -8,11 +8,11 @@ A small tool to mess up a image
 
 Before
 
-![](https://raw.githubusercontent.com/pythonml/mason_image/master/lenna_in.jpg)
+![](https://raw.githubusercontent.com/Mason-Lin/mason_image/master/lenna_in.jpg)
 
 After
 
-![](https://raw.githubusercontent.com/pythonml/mason_image/master/lenna_out.jpg)
+![](https://raw.githubusercontent.com/Mason-Lin/mason_image/master/lenna_out.jpg)
 
 
 ### Usage
@@ -35,8 +35,7 @@ $ pip install mason_image
 
 ### License
 
-[MIT](https://github.com/pythonml/mason_image/blob/master/LICENSE)
-
+[MIT](https://github.com/Mason-Lin/mason_image/blob/master/LICENSE)
 
 [version-badge]:   https://img.shields.io/badge/version-0.1-brightgreen.svg
 [version-link]:    https://pypi.python.org/pypi/mason_image/

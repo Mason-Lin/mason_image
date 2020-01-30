@@ -37,7 +37,7 @@ $ pip install mason_image
 
 [MIT](https://github.com/Mason-Lin/mason_image/blob/master/LICENSE)
 
-[version-badge]:   https://img.shields.io/badge/version-0.1-brightgreen.svg
+[version-badge]:   https://img.shields.io/badge/version-0.1.0-brightgreen.svg
 [version-link]:    https://pypi.python.org/pypi/mason_image/
 [license-badge]:   https://img.shields.io/github/license/Mason-Lin/mason_image.svg
 

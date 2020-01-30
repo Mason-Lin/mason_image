@@ -26,12 +26,34 @@ optional arguments:
   --out OUT_IMAGE    path of output image
 ```
 
-
 ### Install
 
 ```
 $ pip install mason_image
 ```
+
+
+### Pack it
+```
+pip3 install setuptools
+pip3 install wheel
+
+python3 setup.py sdist bdist_wheel
+```
+
+
+### Try to install locally
+```
+pip3 install dist/mason_image-0.1.0-py3-none-any.whl
+```
+
+
+### Upload to PyPI
+```
+pip3 install twine
+twine upload dist/*
+```
+
 
 ### License
 

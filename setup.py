@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='mason_image',
-    version='0.1.2',
+    version='0.1.3',
     author='Mason Lin',
     author_email='pizza0117@gmail.com',
     description='mess up a image',
@@ -14,6 +14,7 @@ setup(
     long_description_content_type="text/markdown",
     url='https://github.com/Mason-Lin/mason_image',
     packages=setuptools.find_packages(),
+    incude_package_data=True,
     install_requires=['Pillow>=5.1.0'],
     entry_points={
         'console_scripts': [

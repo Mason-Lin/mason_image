@@ -44,14 +44,14 @@ python3 setup.py sdist bdist_wheel
 
 ### Try to install locally
 ```
-pip3 install dist/mason_image-0.1.4-py3-none-any.whl
+pip3 install dist/mason_image-<ver>-py3-none-any.whl
 ```
 
 
 ### Upload to PyPI
 ```
 pip3 install twine
-twine upload dist/mason_image-0.1.4-py3-none-any.whl
+twine upload dist/mason_image-<ver>-py3-none-any.whl
 ```
 
 
@@ -59,7 +59,7 @@ twine upload dist/mason_image-0.1.4-py3-none-any.whl
 
 [MIT](https://github.com/Mason-Lin/mason_image/blob/master/LICENSE)
 
-[version-badge]:   https://img.shields.io/badge/version-0.1.4-brightgreen.svg
+[version-badge]:   https://img.shields.io/badge/version-0.1.5-brightgreen.svg
 [version-link]:    https://pypi.python.org/pypi/mason_image/
 [license-badge]:   https://img.shields.io/github/license/Mason-Lin/mason_image.svg
 
